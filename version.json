@@ -1,0 +1,8 @@
+{
+  "version": "2.0.1",
+  "date": "04-09-2026",
+  "notes": "- Fix rapport ventes date dd-mm-yyyy\n- Fix licence Permission denied\n- Backup auto base de donnees\n- Support CPU X86_V2 ancien",
+  "download_url": "https://github.com/odondauk/GestionVentesStocksPro/releases/download/v1.5.1/GestionVentesStocksPro_v1.5.1.exe",
+  "mandatory": false,
+  "min_version": "1.0.0"
+}
