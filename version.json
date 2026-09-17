@@ -1,13 +1,9 @@
 {
-  "version": "2.0.2",
-  "date": "14-09-2026",
-  "notes": "- Nouvelle couleur arrière plan\n- Correction fautes d'orthographe",
-  "download_url"
-:
-"https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.0.2/GestionVentesStocksPro.exe",
-"download_url_direct"
-:
-"https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.0.2/GestionVentesStocksPro.exe",
+  "version": "2.0.3",
+  "date": "17-09-2026",
+  "notes": "- Amélioration des paramètres\n- Surtout sur le choix Monnaie/Devise\n- Introduction du mode Base de données(en cours de développement)",
+  "download_url": "https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.0.3/GestionVentesStocksPro_Setup_v2.0.3.exe",
+  "download_url_direct":"https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.0.3/GestionVentesStocksPro_Setup_v2.0.3.exe",
   "mandatory": false,
   "min_version": "2.0.0"
 }
