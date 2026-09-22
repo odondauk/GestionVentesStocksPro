@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
+  "version": "2.0.3",
   "date": "22-09-2026",
   "notes": "- Grande mise à jour de la structure de l'application\n- Connection en Local et Supabase intégré désormais sync",
-  "download_url": "https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.1.0/GestionVentesStocksPro_Setup_v2.1.0.exe",
-  "download_url_direct": "https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.1.0/GestionVentesStocksPro_Setup_v2.1.0.exe",
+  "download_url": "https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.1.0/GestionVentesStocksPro_Setup_v2.0.3.exe",
+  "download_url_direct": "https://github.com/odondauk/GestionVentesStocksPro/releases/download/v2.1.0/GestionVentesStocksPro_Setup_v2.0.3.exe",
   "mandatory": false,
   "min_version": "2.0.0"
 }
